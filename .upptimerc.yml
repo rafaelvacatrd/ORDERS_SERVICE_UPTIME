@@ -4,9 +4,9 @@ repo: ORDERS_SERVICE_UPTIME # The name of this repository
 
 sites:
   - name: Health Readiness
-    url: https://e7dsd3oc87.execute-api.us-east-2.amazonaws.com/dev/api/v1/private/orders/readiness
+    url: https://e7dsd3oc87.execute-api.us-east-2.amazonaws.com/dev/api/v4/private/orders/readiness
   - name: Health Liveness
-    url: https://e7dsd3oc87.execute-api.us-east-2.amazonaws.com/dev/api/v1/private/orders/liveness
+    url: https://e7dsd3oc87.execute-api.us-east-2.amazonaws.com/dev/api/v4/private/orders/liveness
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
