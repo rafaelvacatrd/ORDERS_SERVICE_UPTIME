@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/e7dsd3oc87.execute-api.us-east-2.amazonaws.com.ico",
     "slug": "health-readiness",
     "status": "up",
-    "uptime": "0.99%",
-    "uptimeDay": "0.99%",
-    "uptimeWeek": "0.99%",
-    "uptimeMonth": "0.99%",
-    "uptimeYear": "0.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2025-02-27": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Health Liveness",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/e7dsd3oc87.execute-api.us-east-2.amazonaws.com.ico",
     "slug": "health-liveness",
     "status": "up",
-    "uptime": "0.44%",
-    "uptimeDay": "0.44%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 747,
     "timeDay": 747,
     "timeWeek": 747,
     "timeMonth": 747,
     "timeYear": 747,
-    "dailyMinutesDown": {
-      "2025-02-27": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
