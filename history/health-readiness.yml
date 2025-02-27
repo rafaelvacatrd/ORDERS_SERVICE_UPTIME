@@ -1,7 +1,7 @@
 url: https://e7dsd3oc87.execute-api.us-east-2.amazonaws.com/dev/api/v4/private/orders/readiness
 status: up
 code: 200
-responseTime: 296
-lastUpdated: 2025-02-27T21:00:27.524Z
+responseTime: 136
+lastUpdated: 2025-02-27T21:05:45.962Z
 startTime: 2025-02-27T20:49:09.489Z
 generator: Upptime <https://github.com/upptime/upptime>
