@@ -1,7 +1,7 @@
 url: https://e7dsd3oc87.execute-api.us-east-2.amazonaws.com/dev/api/v4/private/orders/liveness
 status: up
 code: 200
-responseTime: 1456
-lastUpdated: 2025-02-27T21:00:31.071Z
+responseTime: 435
+lastUpdated: 2025-02-27T21:05:46.591Z
 startTime: 2025-02-27T20:49:11.595Z
 generator: Upptime <https://github.com/upptime/upptime>
