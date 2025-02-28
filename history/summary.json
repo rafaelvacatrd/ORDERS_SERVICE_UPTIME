@@ -4,35 +4,39 @@
     "url": "https://e7dsd3oc87.execute-api.us-east-2.amazonaws.com/dev/api/v4/private/orders/readiness",
     "icon": "https://icons.duckduckgo.com/ip3/e7dsd3oc87.execute-api.us-east-2.amazonaws.com.ico",
     "slug": "health-readiness",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 266,
+    "timeDay": 266,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "Health Liveness",
     "url": "https://e7dsd3oc87.execute-api.us-east-2.amazonaws.com/dev/api/v4/private/orders/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/e7dsd3oc87.execute-api.us-east-2.amazonaws.com.ico",
     "slug": "health-liveness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
-    "dailyMinutesDown": {}
+    "time": 571,
+    "timeDay": 571,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   }
 ]
